@@ -1,5 +1,5 @@
 # python-check-ssl-expire
-Returns the number of days till an SSL cert expires
+Returns the number of days till an SSL cert expires.
 
 ## Use
 
